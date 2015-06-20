@@ -1,4 +1,7 @@
-# Perform Script on Client
+PSoC: Modular Perform Script on Client
+======================================
+
+__Version 1.0a1__
 
 In April, 2014, Jan Stieperaere of Click Works [revealed](http://www.clickworks.be/en/trigger-script-another-client) a technique
 for having one FileMaker client execute a script on another client without the need for a looping script. It's quite ingenious
